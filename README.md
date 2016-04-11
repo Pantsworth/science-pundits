@@ -10,6 +10,7 @@ SCIENCE PUNDITS is a project that enables users to better understand science top
 
 
 Project Setup Information
+
 Stack:
 Python webserver using the Flask microframework.
 Dependencies for the project are listed in requirements.txt.
