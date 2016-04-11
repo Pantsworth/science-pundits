@@ -10,8 +10,5 @@ Install MongoDB.
 Start a mongo instance by typing "mongod" in Terminal
 
 
-Make a virtual Python environment.
-Clone this project to some place on your computer.
-
-
-
+Make a virtual Python environment.  Clone this project to some place
+on your computer. Woooooooo
