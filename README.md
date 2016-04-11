@@ -2,12 +2,14 @@ THIS IS THE BEGINNING OF SCIENCE PUNDITS.
 
 I'm as excited as you are.
 
+
 General Information
+
 SCIENCE PUNDITS is a project that enables users to better understand science topics by bringing in expert analysis from various sources that add depth to the field being discussed. If this sounds vague, that's because we're currently working on finalizing the scope of this project.
 
 
-Project Setup Information
 
+Project Setup Information
 Stack:
 Python webserver using the Flask microframework.
 Dependencies for the project are listed in requirements.txt.
